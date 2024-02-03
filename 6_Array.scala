@@ -12,3 +12,11 @@ object Demo {
         println( "Ayan: " + z(2) )
     }
 }
+
+// Another way of declaring array:
+var myList = Array("Zara", "Nuha", "Ayan")
+
+// Accessing elements of array:
+for ( x <- myList ) {
+    println( x )
+}
