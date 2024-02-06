@@ -28,7 +28,6 @@ var myMatrix = Array.ofDim[Int](3,3)
 var total = 0
 for (i <- 0 to 2) {
     for ( j <- 0 to 2) {
-        myMatrix(i)(j) = j;
         total += myMatrix(i)(j);
     }
 }

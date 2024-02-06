@@ -741,3 +741,6 @@ WARNING: Unmatched cancel notification for request id 560
 2024.02.06 06:08:39 WARN  no build target for: C:\Users\Shravan\Scala Program\sparkStreaming.scala
 2024.02.06 06:10:01 WARN  no build target for: C:\Users\Shravan\Scala Program\sparkStreaming.scala
 2024.02.06 06:10:06 WARN  no build target for: C:\Users\Shravan\Scala Program\sparkStreaming.scala
+Feb 06, 2024 6:11:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.02.06 07:53:44 WARN  no build target for: C:\Users\Shravan\Scala Program\6_Array.scala
